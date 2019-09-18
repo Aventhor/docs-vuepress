@@ -8,7 +8,7 @@
   },
   "scripts": {
     "dev": "vuepress dev docs",
-    "build": "vuepress build dev"
+    "build": "vuepress build"
   },
   "keywords": [],
   "author": "",
