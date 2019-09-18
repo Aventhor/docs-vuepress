@@ -1,4 +1,5 @@
 module.exports = {
+    dest: 'public',
     title: "Project - Документация",
     description: "Статический сайт на VuePress",
     themeConfig: {
